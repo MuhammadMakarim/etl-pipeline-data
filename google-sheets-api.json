@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "secure-brook-462513-r5",
+  "private_key_id": "06767ef22c81873d6043ac710aaa4fa4ea84c7a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDPTRHXwUOJEPj5\n/rya5obPNzApZjNyOzolsPkpHA9r/VRkef55XFxJvWK7g3TrxJ3Gk3L1ayxNJ+fe\nqbw7zaR/XMYlmJpecFjMOHOSHDHfuEEQq/GH8MwYPeJO5iYA2oxDQMmYpnIognct\nPfdc5SvxDitn/YyrliKqsjDlA0TsL/6KIc7rUCkBlgwP1B0Pbd35YJs2J6qjfw8T\nW/FA4y1hui7SU0bkwxsiG//XMN02FNNE0S2zez+UPwi/JgZd/BLwT5Ju+Kn9PlJ6\nOGXVVBlqlTzR0S2nXO5j41k2QEasVbOy+lMZu/5RXoIK16bU3B6q/am5QIVCt9g1\nyeDCERSXAgMBAAECggEAN+DE4fz42N4H1s9JBJIGHZ35L/eZ/30ih91j1CZ5q7i+\nAlV1+D2irMfNcNEW96RoiQnez3ODngqXMEhdcltUr3YQ/Tpcxf8PmIDQ+j36XZ0b\ngMRwVx3bzd8EfRMBhHJko443qRuYov3D5SCSaGpnxVL19VJ9lBTkpFFi56BReD5d\nSn0O7l1gRWTxxfRtN42dL0ba7oGM626rHh3ZV0XMnsKVB+KaCiZ3635N51pwUm6C\n1PNYQ9cRI8zTX1vKZaRTxE4wVPr4w6ZKXSx81O5N/6J/edfD9choFeMJTRjBSUUt\n4/D1aKYujFLkklNYxxUIhGaJsYbuAZLVo8K2VIBAWQKBgQDyXaQWas/gwVleM8QX\nYN265lVJXgt2T3AxTnwDMFemAGprEvR+b1dfRvmIATvLQ71UsubRDvPVichQ+EnI\nBckMhFOG8ek4Ej47lXc/Kx+mKQar26fVy6feuzknrA91W7W/rMDvVudj3udcimUb\nbUQmaYSFBtup9tqMP8IaBIDaDwKBgQDa9nRS+bfep473gcrADsKdYmno/Eu3R//2\nBhKUE+ewcOTvqEatb4IX3Px+m7fZHrl3wJU2vMhwHzsIM7uXJkmJ+y7kxZ9Kow5v\nkzDsj/G7dgJO9lT3LWXd7Ut+9Xaf//rgwY7ru8O5nknkF1Hi64UbiyeRtzQQLQWD\nzYHJUR9E+QJ/OM25p4dhMUwfpfR8AP6y+RsC4i8ogJIduXCroBO0dzOhvXaz1u5B\njBMWaMnhOcKmnTNQ5a6bd3DTgiavJDI27LgW24nXH00nSM+/Iw74W/lBlwXkUDdr\nIMjAnIu3E8pqzoGutmmn0cBseUP2bnctgdM5O/Rfh3ZTwosu8uobSQKBgAR9iWUq\nOdsXFJd+0emeY99WZVWh1uurTlR9S2Q+BEJaDlfb25cy8jgLECKIjvyk5KjQCj9V\nH8cs3MkORoqS/m8V96A5bUrajTE8k4RGb26ovONhqdxn0e77LtErt4MQfNSfI48y\nCpGD7X//+m3s5o3qDKWwXCD4y2QoksDOKRYBAoGAOyfUkCEUNLmbvZYOtY6p8TUi\nTx2rrcSry2Q3Yya9T9VlCdzO0/moZX462DTGZVnA4gBNc6yJvlgvaE9dnX6FMdZG\n4AKai+2wi/sC7kDHuP04jEWfqsKh0VJhj9AGaM+LHc8B34x17lTuBfYN11mqRzHK\nbyuPAiIKATKTYyI+s9U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheets-exercise@secure-brook-462513-r5.iam.gserviceaccount.com",
+  "client_id": "103499362731364755506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheets-exercise%40secure-brook-462513-r5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
