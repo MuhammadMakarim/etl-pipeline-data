@@ -59,7 +59,7 @@ class TestLoadFunctions:
         # Patch method to_sql pada DataFrame  
         with patch.object(sample_dataframe, 'to_sql') as mock_to_sql:  
             loader = DataLoader()  
-            connection_string = 'postgresql://developer:12345@localhost:5432/fashion_db'  
+            connection_string = 'postgresql://developer:your_pass@localhost:5432/fashion_db'  
             table_name = 'fashion_products'  
             
             # Act  
@@ -88,7 +88,7 @@ class TestLoadFunctions:
     def test_save_to_postgresql_connection_error(self, mock_create_engine, sample_dataframe):  
         # Arrange  
         loader = DataLoader()  
-        connection_string = 'postgresql://developer:12345@localhost:5432/fashion_db'  
+        connection_string = 'postgresql://developer:your_pass@localhost:5432/fashion_db'  
         table_name = 'fashion_products'  
         
         # Act  
