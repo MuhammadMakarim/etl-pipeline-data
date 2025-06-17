@@ -73,7 +73,7 @@ class ETLPipeline:
                 df=cleaned_df,  
                 csv_path=os.path.join(project_dir, 'products.csv'),  
                 postgresql_config={  
-                    'connection_string': 'postgresql://developer:12345@localhost:5432/fashion_db',  
+                    'connection_string': 'postgresql://developer:your_pass@localhost:5432/fashion_db',  
                     'table_name': 'fashion_products'  
                 },  
                 google_sheets_config={  
